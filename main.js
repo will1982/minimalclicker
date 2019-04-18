@@ -1,3 +1,4 @@
+// Licensed under a custom ISC License- See LICENSE.txt attached with this software or visit https://galactose.neocities.org/license.html
 //Core functions
 function cookieClick(number){
     cookies = cookies + number;
